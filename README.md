@@ -1,6 +1,6 @@
 Hello, my name is Aakash Jariwala.
 
-- I am currently working towards a BS in Computer Science with a minor in Management at Purdue University.
+- I am currently working towards a BS in Computer Science with minors in both Management and Accounting at Purdue University.
 
 - My interests are in software engineering and UX/UI design
 
