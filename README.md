@@ -1,9 +1,12 @@
-Hello, my name is Aakash Jariwala.
+# Hello, I'm Aakash Jariwala 👋
 
-- I graduated from Purdue University in 2024 with a B.S. in Computer Science and a minor in Management
+I’m a Software Engineer with a passion for learning new technologies and building impactful applications.
 
-- I am currently a Software Developer for Crowe focusing on X++ development in Dynamics 365 F&O
+- 🎓 **Education:** B.S. in Computer Science, Minor in Management – Purdue University, 2024  
+- 💼 **Current Role:** Software Developer at Crowe, specializing in X++ development for Dynamics 365 F&O  
+- 🏆 **Certifications:** Professional Scrum Master (PSM I), Dynamics 365 F&O Apps Development (MB-500)  
+- 🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/aakash-jariwala/) | ajariwala7@gmail.com  
 
-- I am a Professional Scrum Master (PSM I) and certified in Dynamics 365 F&O Apps Development (MB-500)
+## 😸 GitHub Highlights
 
-- You can connect with me on LinkedIn at https://www.linkedin.com/in/aakash-jariwala/ or reach me at ajariwala7@gmail.com
+Check out my **6 pinned projects** below to see more of my software development experience, including full-stack applications from class projects, extracurricular clubs, and hackathons.
